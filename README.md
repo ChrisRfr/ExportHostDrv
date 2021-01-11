@@ -1,9 +1,8 @@
 # ExportHostDrv
  Export Host Third-Party (OEM) Driver Packages
 
-**Usage :**<br>
- ExportHostDrv.exe <Path_to_the_Destination_Folder><br>
- Example: ExportHostDrv.exe D:\ExportHostDriver<br>
+**Usage   :**  ExportHostDrv.exe <Path_to_the_Destination_Folder><br>
+**Example :** ExportHostDrv.exe D:\ExportHostDriver<br>
 <br>
 ![Alt text](/ExportHostDrv.jpg?raw=true "Reult")
 <br><br>
