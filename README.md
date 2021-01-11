@@ -4,7 +4,8 @@
 **Usage   :**  ExportHostDrv.exe <Path_to_the_Destination_Folder><br>
 **Example :** ExportHostDrv.exe D:\ExportHostDriver<br>
 <br>
-![Alt text](/ExportHostDrv.jpg?raw=true "Reult")
+Result:<br>
+![Alt text](/ExportHostDrv.jpg?raw=true "Result")
 <br><br>
 It is ~the same as : Dism /Online /Export-Driver /Destination:D:\destpath<br>
 With the list of drivers sorted and ordered as in the device manager :+1:<br>
