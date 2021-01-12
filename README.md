@@ -8,7 +8,7 @@ Result:<br>
 ![Alt text](/ExportHostDrv.jpg?raw=true "ExportHostDrv")
 <br><br>
 It is ~the same as : Dism /Online /Export-Driver /Destination:D:\destpath<br>
-With the list of drivers sorted and ordered as in the device manager :+1:<br>
+With the list of **installed** drivers sorted and ordered as in the device manager :+1:<br>
 Not just the DriverStore folder as with dism: iigd_dch.inf_amd64_56663c64bec44963, not really speaking.<br>
 And it is faster than Dism.<br>
 <br>
